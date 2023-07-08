@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<img src = "https://i.postimg.cc/W1R4TF4j/d6kpuve-c97567cf-518b-4b86-a271-5c89d88d22f7.gif"  width=150px height=150px align=center/>
-
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2047%20mins-blue)
-
-- 🌱 I’m currently learning Flutter & MERN
-- ⚡ Fun fact: I want to explore everything
 
 
+
+
+  <div align="center">
+    <p>Hi there 👋</p>
+   <img src = "https://i.postimg.cc/W1R4TF4j/d6kpuve-c97567cf-518b-4b86-a271-5c89d88d22f7.gif"  width=150px height=150px />
+ </div>
+
+<div align="center">
+  ⚡ Fun fact: obsessed with bits and pixels 
+</div>
 
   ###
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -27,13 +29,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 </div>
- 
+
 
 
 
 <!--START_SECTION:waka-->
-
-
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2047%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
