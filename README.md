@@ -13,20 +13,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
-
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Tuesday                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Thursday                 31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Friday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Saturday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Sunday                   195 commits         █████████░░░░░░░░░░░░░░░░   35.01 % 
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -70,5 +57,5 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pasinduvinsuka/pasinduvinsuka/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2023 16:05:04 UTC
+ Last Updated on 08/07/2023 16:19:29 UTC
 <!--END_SECTION:waka-->
