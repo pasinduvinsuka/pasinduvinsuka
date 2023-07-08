@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2047%20mins-blue)
 
-<img src = "https://i.postimg.cc/V6M4XSF3/5065813.jpg" />
+<img src = "https://i.postimg.cc/V6M4XSF3/5065813.jpg"/>
 
 - 🌱 I’m currently learning Flutter & MERN
 - ⚡ Fun fact: I want to explore everything
