@@ -3,7 +3,7 @@
 
 
 
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2047%20mins-blue)
+
 
 
 - 🌱 I’m currently learning Flutter & MERN
@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 
-
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2047%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
