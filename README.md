@@ -34,9 +34,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2015%20mins-blue)
 
-🌧️**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
