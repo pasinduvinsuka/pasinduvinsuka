@@ -8,7 +8,7 @@
  </div>
 
 <div align="center">
-  ⚡ Fun fact: obsessed with bits and pixels 
+  "obsessed with bits and pixels 🧑‍💻🎨"
 </div>
 
   ###
