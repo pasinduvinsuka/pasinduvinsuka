@@ -30,6 +30,32 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2029%20mins-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 145.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 707 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 48 Private Repositories 
+ > 
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Wednesday                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Thursday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Friday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Saturday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Sunday                   252 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
