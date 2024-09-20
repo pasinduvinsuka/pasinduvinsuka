@@ -22,6 +22,8 @@
  <img width="10" />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpluplus logo"  />
   <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
