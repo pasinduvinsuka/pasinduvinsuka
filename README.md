@@ -11,7 +11,6 @@
   <strong>Obsessed with bits & pixels 🧑‍💻🎨</strong>
 </div>
 
----
 
 <!--
 ### 🛠️ Main Tech Stack
