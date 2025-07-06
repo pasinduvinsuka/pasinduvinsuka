@@ -1,3 +1,5 @@
+
+<!--
 <div align="center">
   <img 
     src="https://i.postimg.cc/W1R4TF4j/d6kpuve-c97567cf-518b-4b86-a271-5c89d88d22f7.gif" 
@@ -23,7 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java" />
   <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=pr" height="25" alt="Premiere Pro" />
-</div>
+</div> -->
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C426%20hrs%208%20mins-blue)
 
