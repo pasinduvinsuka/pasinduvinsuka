@@ -26,6 +26,8 @@
 </div> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C789%20hrs%2035%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Sunday** 
 
 ```text
