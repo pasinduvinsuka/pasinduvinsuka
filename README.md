@@ -26,7 +26,7 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C790%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C790%20hrs%209%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -60,11 +60,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               31 repos            ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Java                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               32 repos            ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Java                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 
 
