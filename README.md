@@ -26,7 +26,7 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C793%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C799%20hrs%2031%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -45,16 +45,19 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 40 mins        ███████████████████░░░░░░   74.54 % 
+CSS                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          2 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Tea_Solution_FE          2 hrs 8 mins        ████████████████████████░   95.62 % 
+Stassen_Tea_Solution_FE  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
