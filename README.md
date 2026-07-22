@@ -45,18 +45,16 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        █████████████████████████   99.34 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  1 hr 32 mins        ███████████████████████░░   93.98 % 
-Tea_Solution_FE          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
