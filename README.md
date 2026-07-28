@@ -26,20 +26,20 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C779%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C780%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2015%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2674 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Tuesday                  3038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Wednesday                1247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Thursday                 11280 commits       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Friday                   4079 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Saturday                 5688 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Sunday                   15223 commits       █████████░░░░░░░░░░░░░░░░   35.21 % 
+Monday                   2650 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Tuesday                  3006 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Wednesday                1239 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Thursday                 11160 commits       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Friday                   4023 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Saturday                 5606 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Sunday                   15039 commits       █████████░░░░░░░░░░░░░░░░   35.20 % 
 ```
 
 
@@ -47,40 +47,42 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-Batchfile                42 mins             █████████████████░░░░░░░░   68.69 % 
-JSON                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Batchfile                42 mins             █████████████░░░░░░░░░░░░   50.72 % 
+JSON                     35 mins             ███████████░░░░░░░░░░░░░░   42.91 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 1 min          █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ifs-automation           1 hr 1 min          █████████████████████████   100.00 % 
+ifs-automation           1 hr 1 min          ██████████████████░░░░░░░   73.83 % 
+stassens migration script21 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (30.93%)
+⏱ AI Coding Time: 39 mins (47.67%)
 
-✍️ 0 lines written by AI, 220 lines written by hand (0.0% AI-written)
+✍️ 2 lines written by AI, 235 lines written by hand (0.84% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
-Gemini                   2 lines             █████████████████████████   100.00 % 
+Gemini                   4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 322 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.84% of written lines came from AI
+📝 Concise Prompter — average 194 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
