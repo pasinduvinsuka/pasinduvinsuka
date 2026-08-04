@@ -47,42 +47,41 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      5 hrs 41 mins       ██████████████████████░░░   88.44 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+SQL                      5 hrs 56 mins       ███████████████████████░░   93.93 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 25 mins       █████████████████████████   100.00 % 
+Antigravity IDE          6 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stassens migration script6 hrs 25 mins       █████████████████████████   100.00 % 
+stassens migration script6 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (91.08%)
+⏱ AI Coding Time: 5 hrs 44 mins (90.99%)
 
-✍️ 440 lines written by AI, 36 lines written by hand (92.44% AI-written)
+✍️ 438 lines written by AI, 21 lines written by hand (95.42% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 66 AI Prompts
+🧠 4 AI Sessions, 58 AI Prompts
 
-Gemini                   442 lines           █████████████████████████   100.00 % 
+Gemini                   440 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.44% of written lines came from AI
-📝 Concise Prompter — average 186 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 46.36% of changed lines were hand-edited
+🤖 AI-Driven — 95.42% of written lines came from AI
+📝 Concise Prompter — average 185 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 45.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
