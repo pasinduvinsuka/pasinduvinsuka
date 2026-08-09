@@ -47,42 +47,46 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      15 hrs 31 mins      ████████████████████████░   95.32 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+SQL                      15 hrs 31 mins      ███████████████████████░░   93.66 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+TypeScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 16 mins      █████████████████████████   100.00 % 
+Antigravity IDE          16 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stassens-migration-script15 hrs 49 mins      ████████████████████████░   97.20 % 
-stassens migration script27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+stassens-migration-script15 hrs 49 mins      ████████████████████████░   95.50 % 
+stassens migration script27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+error-dashboard          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+error dashboard          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Windows                  16 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 9 mins (86.93%)
+⏱ AI Coding Time: 14 hrs 26 mins (87.16%)
 
-✍️ 299 lines written by AI, 4,888 lines written by hand (5.76% AI-written)
+✍️ 305 lines written by AI, 4,888 lines written by hand (5.87% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 163 AI Prompts
+🧠 5 AI Sessions, 164 AI Prompts
 
-Gemini                   361 lines           █████████████████████████   100.00 % 
+Gemini                   361 lines           █████████████████████████   98.37 % 
+Opus                     6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.76% of written lines came from AI
-📄 Detailed Prompter — average 801 characters per prompt
-🔁 Iterative Prompter — average 41 prompts per session
-🔍 Hands-On Reviewer — 98.78% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 5.87% of written lines came from AI
+📄 Detailed Prompter — average 812 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
+🔍 Hands-On Reviewer — 98.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
