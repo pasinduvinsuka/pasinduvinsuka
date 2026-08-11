@@ -47,46 +47,47 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      15 hrs 31 mins      ███████████████████████░░   93.66 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-TypeScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+SQL                      15 hrs 20 mins      ████████████████████░░░░░   79.97 % 
+TypeScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 34 mins      █████████████████████████   100.00 % 
+Antigravity IDE          17 hrs 45 mins      ███████████████████████░░   92.53 % 
+Claude Code              1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🐱‍💻 Projects: 
-stassens-migration-script15 hrs 49 mins      ████████████████████████░   95.50 % 
-stassens migration script27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-error-dashboard          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-error dashboard          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+stassens-migration-script15 hrs 55 mins      █████████████████████░░░░   82.97 % 
+error-dashboard          2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+stassens migration script13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+error dashboard          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Windows                  16 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 26 mins (87.16%)
+⏱ AI Coding Time: 16 hrs 39 mins (86.84%)
 
-✍️ 305 lines written by AI, 4,888 lines written by hand (5.87% AI-written)
+✍️ 1,680 lines written by AI, 4,888 lines written by hand (25.58% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 1,335,109 Input Tokens, 171,694 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $32.52 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 164 AI Prompts
+🧠 7 AI Sessions, 186 AI Prompts
 
-Gemini                   361 lines           █████████████████████████   98.37 % 
-Opus                     6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Opus                     3,201 lines         ██████████████████████░░░   89.81 % 
+Gemini                   363 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.87% of written lines came from AI
-📄 Detailed Prompter — average 812 characters per prompt
-🔁 Iterative Prompter — average 33 prompts per session
-🔍 Hands-On Reviewer — 98.76% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.58% of written lines came from AI
+📄 Detailed Prompter — average 798 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
+🔍 Hands-On Reviewer — 89.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
