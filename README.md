@@ -26,7 +26,7 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C805%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C805%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2049%20mins-blue?style=flat)
 
@@ -47,46 +47,46 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   40.97 % 
-SQL                      1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+TypeScript               1 hr 40 mins        ████████████░░░░░░░░░░░░░   49.74 % 
+JSON                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 39 mins       ████████████████░░░░░░░░░   64.96 % 
-Claude Code              1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   35.04 % 
+Antigravity IDE          1 hr 56 mins        ██████████████░░░░░░░░░░░   57.45 % 
+Claude Code              1 hr 25 mins        ███████████░░░░░░░░░░░░░░   42.55 % 
 
 🐱‍💻 Projects: 
-error-dashboard          2 hrs 56 mins       ██████████████████░░░░░░░   71.85 % 
-stassens-migration-script1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-error dashboard          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+error-dashboard          3 hrs               ██████████████████████░░░   89.45 % 
+Unknown Project          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+error dashboard          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 Operating System: 
-Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 20 mins (81.92%)
+⏱ AI Coding Time: 2 hrs 44 mins (81.51%)
 
-✍️ 1,381 lines written by AI, 2 lines written by hand (99.86% AI-written)
+✍️ 1,381 lines written by AI, 15 lines written by hand (98.93% AI-written)
 
 🔤 1,335,109 Input Tokens, 171,694 Output Tokens
 
 💵 $32.52 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 47 AI Prompts
+🧠 4 AI Sessions, 18 AI Prompts
 
-Opus                     3,201 lines         █████████████████████████   99.72 % 
-Gemini                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Opus                     3,201 lines         █████████████████████████   99.94 % 
+Gemini                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📄 Detailed Prompter — average 800 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 34.91% of changed lines were hand-edited
+🤖 AI-Driven — 98.93% of written lines came from AI
+📄 Detailed Prompter — average 581 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
