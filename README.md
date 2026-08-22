@@ -47,43 +47,41 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 20 mins       █████████████████████████   99.26 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               5 hrs 16 mins       █████████████████████████   99.11 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 39 mins       ██████████████░░░░░░░░░░░   57.26 % 
-Claude Code              2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
+Antigravity IDE          3 hrs 16 mins       ███████████████░░░░░░░░░░   61.51 % 
+Claude Code              2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.49 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  6 hrs 23 mins       █████████████████████████   100.00 % 
+Stassen_Tea_Solution_FE  5 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (69.06%)
+⏱ AI Coding Time: 2 hrs 47 mins (52.49%)
 
-✍️ 2,052 lines written by AI, 80 lines written by hand (96.25% AI-written)
+✍️ 1,677 lines written by AI, 94 lines written by hand (94.69% AI-written)
 
-🔤 1,455,381 Input Tokens, 195,856 Output Tokens
+🔤 1,264,315 Input Tokens, 138,428 Output Tokens
 
-💵 $50.06 Estimated AI Cost This Week
+💵 $42.16 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 52 AI Prompts
+🧠 3 AI Sessions, 33 AI Prompts
 
-Opus                     2,360 lines         █████████████████████████   99.70 % 
-Gemini                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,901 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.25% of written lines came from AI
-📄 Detailed Prompter — average 630 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 24.5% of changed lines were hand-edited
+🤖 AI-Driven — 94.69% of written lines came from AI
+📄 Detailed Prompter — average 826 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 27.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
