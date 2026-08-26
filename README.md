@@ -26,9 +26,9 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C812%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C817%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2046%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -47,40 +47,41 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 33 mins       █████████████████████████   99.76 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               7 hrs 20 mins       █████████████████████████   99.75 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 55 mins       ████████████████░░░░░░░░░   64.90 % 
-Claude Code              2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
+Antigravity IDE          4 hrs 16 mins       ███████████████░░░░░░░░░░   58.05 % 
+Claude Code              3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.95 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  7 hrs 34 mins       █████████████████████████   100.00 % 
+Stassen_Tea_Solution_FE  7 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (57.43%)
+⏱ AI Coding Time: 4 hrs 54 mins (66.62%)
 
-✍️ 1,391 lines written by AI, 254 lines written by hand (84.56% AI-written)
+✍️ 1,645 lines written by AI, 574 lines written by hand (74.13% AI-written)
 
-🔤 1,362,138 Input Tokens, 177,837 Output Tokens
+🔤 822,297 Input Tokens, 187,369 Output Tokens
 
-💵 $39.93 Estimated AI Cost This Week
+💵 $43.16 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 50 AI Prompts
+🧠 5 AI Sessions, 66 AI Prompts
 
-Opus                     1,799 lines         █████████████████████████   100.00 % 
+Opus                     2,048 lines         █████████████████████████   99.95 % 
+Gemini                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.56% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 17.21% of changed lines were hand-edited
+🤖 AI-Driven — 74.13% of written lines came from AI
+📄 Detailed Prompter — average 580 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 28.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
