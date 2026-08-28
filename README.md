@@ -26,9 +26,9 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C817%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C819%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%209%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -47,26 +47,26 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       █████████████████████████   99.75 % 
+TypeScript               7 hrs 14 mins       █████████████████████████   99.75 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 16 mins       ███████████████░░░░░░░░░░   58.05 % 
-Claude Code              3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.95 % 
+Antigravity IDE          4 hrs 10 mins       ██████████████░░░░░░░░░░░   57.47 % 
+Claude Code              3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.53 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  7 hrs 21 mins       █████████████████████████   100.00 % 
+Stassen_Tea_Solution_FE  7 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 54 mins (66.62%)
+⏱ AI Coding Time: 4 hrs 54 mins (67.53%)
 
-✍️ 1,645 lines written by AI, 574 lines written by hand (74.13% AI-written)
+✍️ 1,645 lines written by AI, 569 lines written by hand (74.3% AI-written)
 
 🔤 822,297 Input Tokens, 187,369 Output Tokens
 
@@ -78,10 +78,10 @@ Opus                     2,048 lines         ███████████�
 Gemini                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.13% of written lines came from AI
+🤖 AI-Driven — 74.3% of written lines came from AI
 📄 Detailed Prompter — average 580 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 28.51% of changed lines were hand-edited
+🚀 High AI Trust — 28.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
