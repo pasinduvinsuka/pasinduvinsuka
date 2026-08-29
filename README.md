@@ -47,12 +47,12 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 14 mins       █████████████████████████   99.75 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript               7 hrs 14 mins       █████████████████████████   99.88 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 10 mins       ██████████████░░░░░░░░░░░   57.47 % 
-Claude Code              3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.53 % 
+Antigravity IDE          4 hrs 9 mins        ██████████████░░░░░░░░░░░   57.41 % 
+Claude Code              3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.59 % 
 
 🐱‍💻 Projects: 
 Stassen_Tea_Solution_FE  7 hrs 15 mins       █████████████████████████   100.00 % 
@@ -64,7 +64,7 @@ Windows                  7 hrs 15 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 54 mins (67.53%)
+⏱ AI Coding Time: 4 hrs 54 mins (67.62%)
 
 ✍️ 1,645 lines written by AI, 569 lines written by hand (74.3% AI-written)
 
@@ -81,7 +81,7 @@ Gemini                   1 lines             ░░░░░░░░░░░�
 🤖 AI-Driven — 74.3% of written lines came from AI
 📄 Detailed Prompter — average 580 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 28.26% of changed lines were hand-edited
+🚀 High AI Trust — 28.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
