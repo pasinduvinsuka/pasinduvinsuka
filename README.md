@@ -47,46 +47,46 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 41 mins      ███████████████████████░░   93.32 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               7 hrs 51 mins       ███████████████████████░░   90.34 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 41 mins       ███████████████░░░░░░░░░░   59.30 % 
-Claude Code              5 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
+Antigravity IDE          4 hrs 27 mins       █████████████░░░░░░░░░░░░   51.15 % 
+Claude Code              4 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.85 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  14 hrs 38 mins      █████████████████████████   99.82 % 
-error-dashboard          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Stassen_Tea_Solution_FE  8 hrs 40 mins       █████████████████████████   99.70 % 
+error-dashboard          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 58 mins (68.05%)
+⏱ AI Coding Time: 6 hrs 23 mins (73.53%)
 
-✍️ 4,742 lines written by AI, 646 lines written by hand (88.01% AI-written)
+✍️ 3,944 lines written by AI, 357 lines written by hand (91.7% AI-written)
 
-🔤 1,279,427 Input Tokens, 355,357 Output Tokens
+🔤 976,198 Input Tokens, 272,168 Output Tokens
 
-💵 $53.69 Estimated AI Cost This Week
+💵 $43.14 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 145 AI Prompts
+🧠 7 AI Sessions, 83 AI Prompts
 
-Opus                     5,243 lines         █████████████████████████   100.00 % 
+Opus                     4,361 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.01% of written lines came from AI
-📄 Detailed Prompter — average 565 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 21.58% of changed lines were hand-edited
+🤖 AI-Driven — 91.7% of written lines came from AI
+📝 Concise Prompter — average 249 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 15.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
