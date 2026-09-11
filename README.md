@@ -26,9 +26,9 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C837%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C839%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2030%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -47,45 +47,45 @@ Sunday                   15223 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 29 mins       ██████████████████████░░░   87.93 % 
-SQL                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-C#                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               6 hrs 49 mins       ██████████████████████░░░   88.20 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+C#                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 13 mins       ██████████████████░░░░░░░   70.78 % 
-Claude Code              2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Antigravity IDE          5 hrs 27 mins       ██████████████████░░░░░░░   70.51 % 
+Claude Code              2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  6 hrs 29 mins       ██████████████████████░░░   88.10 % 
-Stassen_Tea_Solution_BE  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-files                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Stassen_Tea_Solution_FE  6 hrs 51 mins       ██████████████████████░░░   88.64 % 
+Stassen_Tea_Solution_BE  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+files                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
-Windows                  7 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 35 mins (48.8%)
+⏱ AI Coding Time: 3 hrs 45 mins (48.66%)
 
-✍️ 2,222 lines written by AI, 1,823 lines written by hand (54.93% AI-written)
+✍️ 2,222 lines written by AI, 1,892 lines written by hand (54.01% AI-written)
 
-🔤 447,214 Input Tokens, 139,724 Output Tokens
+🔤 599,132 Input Tokens, 152,507 Output Tokens
 
-💵 $20.54 Estimated AI Cost This Week
+💵 $22.66 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 45 AI Prompts
+🧠 8 AI Sessions, 47 AI Prompts
 
 Opus                     2,331 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.93% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
+⚖️ Balanced with AI — 54.01% of written lines came from AI
+📝 Concise Prompter — average 185 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 70.07% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 70.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
