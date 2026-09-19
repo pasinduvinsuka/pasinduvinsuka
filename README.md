@@ -26,9 +26,9 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C847%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C848%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2035%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -47,43 +47,41 @@ Sunday                   15225 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 4 mins        ████████████████████████░   96.58 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               7 hrs 43 mins       █████████████████████████   99.37 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 40 mins       █████████████████░░░░░░░░   67.92 % 
-Claude Code              2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Antigravity IDE          5 hrs 4 mins        ████████████████░░░░░░░░░   65.31 % 
+Claude Code              2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.69 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  8 hrs 8 mins        ████████████████████████░   97.43 % 
-Stassen_Tea_Solution_BE  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Stassen_Tea_Solution_FE  7 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (47.91%)
+⏱ AI Coding Time: 3 hrs 51 mins (49.68%)
 
-✍️ 838 lines written by AI, 313 lines written by hand (72.81% AI-written)
+✍️ 745 lines written by AI, 293 lines written by hand (71.77% AI-written)
 
-🔤 745,901 Input Tokens, 169,989 Output Tokens
+🔤 694,165 Input Tokens, 166,289 Output Tokens
 
-💵 $18.33 Estimated AI Cost This Week
+💵 $17.92 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 47 AI Prompts
+🧠 6 AI Sessions, 44 AI Prompts
 
-Opus                     858 lines           █████████████████████████   100.00 % 
+Opus                     765 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.81% of written lines came from AI
-📚 Verbose Prompter — average 3,120 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 38.8% of changed lines were hand-edited
+🤖 AI-Driven — 71.77% of written lines came from AI
+📚 Verbose Prompter — average 3,325 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 40.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
