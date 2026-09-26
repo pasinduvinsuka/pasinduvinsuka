@@ -54,23 +54,23 @@ Markdown                 1 min               ░░░░░░░░░░░�
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        █████████████░░░░░░░░░░░░   52.85 % 
-Antigravity IDE          1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.17 % 
-Antigravity              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Claude Code              1 hr 19 mins        █████████████░░░░░░░░░░░░   52.88 % 
+Antigravity IDE          1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.13 % 
+Antigravity              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  2 hrs 22 mins       ████████████████████████░   95.02 % 
-LLMs-from-scratch        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Stassen_Tea_Solution_FE  2 hrs 22 mins       ████████████████████████░   95.01 % 
+LLMs-from-scratch        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       ████████████████████████░   95.02 % 
-Linux                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Windows                  2 hrs 22 mins       ████████████████████████░   95.01 % 
+Linux                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (67.37%)
+⏱ AI Coding Time: 1 hr 41 mins (67.41%)
 
 ✍️ 6 lines written by AI, 31 lines written by hand (16.22% AI-written)
 
@@ -86,7 +86,7 @@ Opus                     6 lines             ███████████�
 🧑‍💻 Mostly Hands-On — 16.22% of written lines came from AI
 📚 Verbose Prompter — average 2,262 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 89.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
