@@ -26,17 +26,17 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C850%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C851%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2016%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2675 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Tuesday                  3038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Monday                   2680 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Tuesday                  3038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 Wednesday                1247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Thursday                 11280 commits       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Thursday                 11280 commits       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
 Friday                   4079 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 Saturday                 5688 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 Sunday                   15236 commits       █████████░░░░░░░░░░░░░░░░   35.23 % 
@@ -47,32 +47,34 @@ Sunday                   15236 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ███████████████████████░░   93.50 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               2 hrs 20 mins       ██████████████████░░░░░░░   71.27 % 
+C                        32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        █████████████░░░░░░░░░░░░   52.88 % 
-Antigravity IDE          1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.13 % 
-Antigravity              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Claude Code              1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   40.31 % 
+Antigravity IDE          1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Antigravity              54 mins             ███████░░░░░░░░░░░░░░░░░░   27.58 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  2 hrs 22 mins       ████████████████████████░   95.01 % 
-LLMs-from-scratch        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Stassen_Tea_Solution_FE  2 hrs 22 mins       ██████████████████░░░░░░░   72.42 % 
+minierim                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+finally_its_c            18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+LLMs-from-scratch        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       ████████████████████████░   95.01 % 
-Linux                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Windows                  2 hrs 22 mins       ██████████████████░░░░░░░   72.42 % 
+Linux                    54 mins             ███████░░░░░░░░░░░░░░░░░░   27.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (67.41%)
+⏱ AI Coding Time: 1 hr 41 mins (51.38%)
 
-✍️ 6 lines written by AI, 31 lines written by hand (16.22% AI-written)
+✍️ 6 lines written by AI, 141 lines written by hand (4.08% AI-written)
 
 🔤 326,450 Input Tokens, 58,270 Output Tokens
 
@@ -83,10 +85,10 @@ Linux                    7 mins              █░░░░░░░░░░�
 Opus                     6 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.22% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.08% of written lines came from AI
 📚 Verbose Prompter — average 2,262 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 89.09% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
