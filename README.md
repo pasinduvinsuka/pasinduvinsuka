@@ -26,7 +26,7 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C851%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C853%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2016%20mins-blue?style=flat)
 
@@ -47,45 +47,45 @@ Sunday                   15236 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 37 mins        ████████████░░░░░░░░░░░░░   48.15 % 
-TypeScript               1 hr 27 mins        ███████████░░░░░░░░░░░░░░   43.62 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+C                        1 hr 47 mins        ████████████░░░░░░░░░░░░░   46.89 % 
+TypeScript               1 hr 45 mins        ███████████░░░░░░░░░░░░░░   45.91 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Antigravity              1 hr 51 mins        ██████████████░░░░░░░░░░░   55.25 % 
-Claude Code              46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Antigravity IDE          43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Antigravity              2 hrs 2 mins        █████████████░░░░░░░░░░░░   53.10 % 
+Antigravity IDE          1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.79 % 
+Claude Code              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_FE  1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.75 % 
-finally_its_c            1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   41.27 % 
-minierim                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Stassen_Tea_Solution_FE  1 hr 47 mins        ████████████░░░░░░░░░░░░░   46.90 % 
+finally_its_c            1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.12 % 
+minierim                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 
 💻 Operating System: 
-Linux                    1 hr 51 mins        ██████████████░░░░░░░░░░░   55.25 % 
-Windows                  1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.75 % 
+Linux                    2 hrs 2 mins        █████████████░░░░░░░░░░░░   53.10 % 
+Windows                  1 hr 47 mins        ████████████░░░░░░░░░░░░░   46.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (26.25%)
+⏱ AI Coding Time: 36 mins (15.69%)
 
-✍️ 0 lines written by AI, 223 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 231 lines written by hand (0.0% AI-written)
 
-🔤 236,768 Input Tokens, 48,220 Output Tokens
+🔤 219,872 Input Tokens, 43,161 Output Tokens
 
-💵 $5.60 Estimated AI Cost This Week
+💵 $5.18 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 29 AI Prompts
+🧠 4 AI Sessions, 25 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 894 characters per prompt
+📄 Detailed Prompter — average 1,024 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
