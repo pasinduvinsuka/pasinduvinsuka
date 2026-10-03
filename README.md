@@ -26,20 +26,20 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C853%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C853%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2026%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2680 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Tuesday                  3038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Wednesday                1247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Thursday                 11280 commits       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Friday                   4079 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Saturday                 5688 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   15236 commits       █████████░░░░░░░░░░░░░░░░   35.23 % 
+Monday                   2673 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Tuesday                  3038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Wednesday                1247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Thursday                 11265 commits       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Friday                   4069 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Saturday                 5689 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Sunday                   15235 commits       █████████░░░░░░░░░░░░░░░░   35.25 % 
 ```
 
 
@@ -47,31 +47,50 @@ Sunday                   15236 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 47 mins        ███████████████░░░░░░░░░░   58.17 % 
-TypeScript               1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   34.12 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+C                        1 hr 47 mins        █████████████░░░░░░░░░░░░   52.18 % 
+TypeScript               1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.61 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 2 mins        ████████████████░░░░░░░░░   65.88 % 
-Antigravity IDE          1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   34.12 % 
+Antigravity              2 hrs 2 mins        ███████████████░░░░░░░░░░   59.09 % 
+Antigravity IDE          1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.78 % 
+Claude Code              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 🐱‍💻 Projects: 
-finally_its_c            1 hr 23 mins        ███████████░░░░░░░░░░░░░░   44.80 % 
-Stassen_Tea_Solution_FE  43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-minierim                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Tea_Solution_FE          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+finally_its_c            1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   40.19 % 
+Stassen_Tea_Solution_FE  43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+minierim                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+error-dashboard          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Tea_Solution_FE          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        ████████████████░░░░░░░░░   65.88 % 
-Windows                  1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   34.12 % 
+Linux                    2 hrs 2 mins        ███████████████░░░░░░░░░░   59.09 % 
+Windows                  1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   40.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 21 mins (10.3%)
+
+✍️ 0 lines written by AI, 215 lines written by hand (0.0% AI-written)
+
+🔤 227,369 Input Tokens, 27,196 Output Tokens
+
+💵 $1.98 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 80 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
