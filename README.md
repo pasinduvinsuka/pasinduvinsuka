@@ -26,9 +26,9 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C853%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C855%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2023%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -47,49 +47,49 @@ Sunday                   15237 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   36.77 % 
-TypeScript               1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.76 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Other                    1 hr 57 mins        ███████████░░░░░░░░░░░░░░   45.67 % 
+TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+C#                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+C                        17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 1 min         ███████████████░░░░░░░░░░   58.90 % 
-Antigravity IDE          1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.93 % 
-Claude Code              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Claude Code              2 hrs 11 mins       █████████████░░░░░░░░░░░░   51.13 % 
+Antigravity              1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Antigravity IDE          1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
 
 🐱‍💻 Projects: 
-finally_its_c            57 mins             ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-Stassen_Tea_Solution_FE  43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-fyp                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-error-dashboard          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Tea_Solution_FE          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+error-dashboard          1 hr 51 mins        ███████████░░░░░░░░░░░░░░   43.51 % 
+Stassen_Tea_Solution_FE  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+fyp                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Tea_Solution_FE          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+llama.cpp                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 💻 Operating System: 
-Linux                    2 hrs 1 min         ███████████████░░░░░░░░░░   58.90 % 
-Windows                  1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   41.10 % 
+Windows                  3 hrs 12 mins       ███████████████████░░░░░░   75.10 % 
+Linux                    1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (10.35%)
+⏱ AI Coding Time: 2 hrs 12 mins (51.41%)
 
-✍️ 0 lines written by AI, 283 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 198 lines written by hand (0.0% AI-written)
 
-🔤 227,369 Input Tokens, 27,196 Output Tokens
+🔤 654,924 Input Tokens, 133,092 Output Tokens
 
-💵 $1.98 Estimated AI Cost This Week
+💵 $8.82 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 6 AI Sessions, 37 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 132 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
