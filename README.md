@@ -47,35 +47,35 @@ Sunday                   15237 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 47 mins        █████████████░░░░░░░░░░░░   52.18 % 
-TypeScript               1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.61 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+C                        1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   36.77 % 
+TypeScript               1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.76 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 2 mins        ███████████████░░░░░░░░░░   59.09 % 
-Antigravity IDE          1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.78 % 
-Claude Code              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Antigravity              2 hrs 1 min         ███████████████░░░░░░░░░░   58.90 % 
+Antigravity IDE          1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.93 % 
+Claude Code              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🐱‍💻 Projects: 
-finally_its_c            1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   40.19 % 
-Stassen_Tea_Solution_FE  43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-minierim                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-error-dashboard          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Tea_Solution_FE          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+finally_its_c            57 mins             ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Stassen_Tea_Solution_FE  43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+fyp                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+error-dashboard          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Tea_Solution_FE          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        ███████████████░░░░░░░░░░   59.09 % 
-Windows                  1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   40.91 % 
+Linux                    2 hrs 1 min         ███████████████░░░░░░░░░░   58.90 % 
+Windows                  1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   41.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (10.3%)
+⏱ AI Coding Time: 21 mins (10.35%)
 
-✍️ 0 lines written by AI, 215 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 283 lines written by hand (0.0% AI-written)
 
 🔤 227,369 Input Tokens, 27,196 Output Tokens
 
