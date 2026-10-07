@@ -35,7 +35,7 @@
 ```text
 Monday                   2680 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 Tuesday                  3038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Wednesday                1247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Wednesday                1249 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 Thursday                 11280 commits       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
 Friday                   4079 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 Saturday                 5690 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
@@ -47,35 +47,35 @@ Sunday                   15237 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 57 mins        ███████████░░░░░░░░░░░░░░   45.67 % 
-TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-C#                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-C                        17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other                    1 hr 57 mins        █████████████░░░░░░░░░░░░   51.93 % 
+TypeScript               40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+C#                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 11 mins       █████████████░░░░░░░░░░░░   51.13 % 
-Antigravity              1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Antigravity IDE          1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Claude Code              2 hrs 11 mins       ███████████████░░░░░░░░░░   58.13 % 
+Antigravity              52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Antigravity IDE          41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 
 🐱‍💻 Projects: 
-error-dashboard          1 hr 51 mins        ███████████░░░░░░░░░░░░░░   43.51 % 
-Stassen_Tea_Solution_FE  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-fyp                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Tea_Solution_FE          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-llama.cpp                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+error-dashboard          1 hr 51 mins        ████████████░░░░░░░░░░░░░   49.46 % 
+fyp                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Stassen_Tea_Solution_FE  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Tea_Solution_FE          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+llama.cpp                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 💻 Operating System: 
-Windows                  3 hrs 12 mins       ███████████████████░░░░░░   75.10 % 
-Linux                    1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Windows                  2 hrs 52 mins       ███████████████████░░░░░░   76.54 % 
+Linux                    52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (51.41%)
+⏱ AI Coding Time: 2 hrs 12 mins (58.45%)
 
-✍️ 0 lines written by AI, 198 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 197 lines written by hand (0.0% AI-written)
 
 🔤 654,924 Input Tokens, 133,092 Output Tokens
 
