@@ -33,13 +33,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2680 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Monday                   2680 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 Tuesday                  3038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 Wednesday                1249 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Thursday                 11280 commits       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Friday                   4079 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Saturday                 5690 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Sunday                   15237 commits       █████████░░░░░░░░░░░░░░░░   35.23 % 
+Thursday                 11280 commits       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Friday                   4087 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Saturday                 5690 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Sunday                   15237 commits       █████████░░░░░░░░░░░░░░░░   35.22 % 
 ```
 
 
@@ -47,49 +47,49 @@ Sunday                   15237 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 55 mins        ██████████████░░░░░░░░░░░   57.29 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-C#                       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other                    1 hr 6 mins         ███████████░░░░░░░░░░░░░░   43.84 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+C#                       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+C++                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 6 mins        ████████████████░░░░░░░░░   62.77 % 
-Antigravity              52 mins             ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-Antigravity IDE          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Claude Code              1 hr 17 mins        █████████████░░░░░░░░░░░░   51.05 % 
+Antigravity              52 mins             █████████░░░░░░░░░░░░░░░░   34.69 % 
+Antigravity IDE          21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 
 🐱‍💻 Projects: 
-error-dashboard          1 hr 51 mins        ██████████████░░░░░░░░░░░   55.61 % 
-fyp                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Stassen_Tea_Solution_FE  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-llama.cpp                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Stassen_Tea_Solution_BE  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+error-dashboard          1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   41.62 % 
+fyp                      34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Stassen_Tea_Solution_FE  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+llama.cpp                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Stassen_Tea_Solution_BE  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       ██████████████████░░░░░░░   73.62 % 
-Linux                    52 mins             ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Windows                  1 hr 39 mins        ████████████████░░░░░░░░░   65.31 % 
+Linux                    52 mins             █████████░░░░░░░░░░░░░░░░   34.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (63.13%)
+⏱ AI Coding Time: 1 hr 18 mins (51.52%)
 
-✍️ 0 lines written by AI, 189 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 193 lines written by hand (0.0% AI-written)
 
-🔤 615,789 Input Tokens, 128,752 Output Tokens
+🔤 495,829 Input Tokens, 60,154 Output Tokens
 
-💵 $8.41 Estimated AI Cost This Week
+💵 $5.83 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 33 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
