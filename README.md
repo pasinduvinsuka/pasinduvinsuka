@@ -47,48 +47,48 @@ Sunday                   15237 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 6 mins         ███████████░░░░░░░░░░░░░░   43.84 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-C#                       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-C++                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Other                    52 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+C++                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+C#                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 🔥 Editors: 
-Claude Code              1 hr 17 mins        █████████████░░░░░░░░░░░░   51.05 % 
-Antigravity              52 mins             █████████░░░░░░░░░░░░░░░░   34.69 % 
-Antigravity IDE          21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Antigravity              1 hr 37 mins        ██████████████░░░░░░░░░░░   55.43 % 
+Claude Code              57 mins             ████████░░░░░░░░░░░░░░░░░   32.39 % 
+Antigravity IDE          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 
 🐱‍💻 Projects: 
-error-dashboard          1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   41.62 % 
-fyp                      34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Stassen_Tea_Solution_FE  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-llama.cpp                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Stassen_Tea_Solution_BE  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+llama.cpp                56 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
+error-dashboard          42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+fyp                      40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Stassen_Tea_Solution_FE  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Stassen_Tea_Solution_BE  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        ████████████████░░░░░░░░░   65.31 % 
-Linux                    52 mins             █████████░░░░░░░░░░░░░░░░   34.69 % 
+Linux                    1 hr 37 mins        ██████████████░░░░░░░░░░░   55.43 % 
+Windows                  1 hr 18 mins        ███████████░░░░░░░░░░░░░░   44.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (51.52%)
+⏱ AI Coding Time: 57 mins (32.6%)
 
-✍️ 0 lines written by AI, 193 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 295 lines written by hand (0.0% AI-written)
 
-🔤 495,829 Input Tokens, 60,154 Output Tokens
+🔤 268,460 Input Tokens, 32,958 Output Tokens
 
-💵 $5.83 Estimated AI Cost This Week
+💵 $3.86 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 13 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
+📝 Concise Prompter — average 168 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
