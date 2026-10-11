@@ -26,7 +26,7 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C855%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C856%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2023%20mins-blue?style=flat)
 
@@ -39,7 +39,7 @@ Wednesday                1249 commits        █░░░░░░░░░░�
 Thursday                 11280 commits       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
 Friday                   4087 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 Saturday                 5690 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   15237 commits       █████████░░░░░░░░░░░░░░░░   35.22 % 
+Sunday                   15239 commits       █████████░░░░░░░░░░░░░░░░   35.22 % 
 ```
 
 
@@ -47,33 +47,33 @@ Sunday                   15237 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-Other                    52 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-C++                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-C#                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Other                    52 mins             ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+C++                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+C#                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🔥 Editors: 
-Antigravity              1 hr 37 mins        ██████████████░░░░░░░░░░░   55.43 % 
-Claude Code              57 mins             ████████░░░░░░░░░░░░░░░░░   32.39 % 
-Antigravity IDE          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Antigravity              1 hr 37 mins        ██████████████░░░░░░░░░░░   55.33 % 
+Claude Code              57 mins             ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Antigravity IDE          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 
 🐱‍💻 Projects: 
-llama.cpp                56 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
-error-dashboard          42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-fyp                      40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-Stassen_Tea_Solution_FE  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Stassen_Tea_Solution_BE  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+llama.cpp                56 mins             ████████░░░░░░░░░░░░░░░░░   32.44 % 
+error-dashboard          42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+fyp                      40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Stassen_Tea_Solution_FE  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Stassen_Tea_Solution_BE  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 💻 Operating System: 
-Linux                    1 hr 37 mins        ██████████████░░░░░░░░░░░   55.43 % 
-Windows                  1 hr 18 mins        ███████████░░░░░░░░░░░░░░   44.57 % 
+Linux                    1 hr 37 mins        ██████████████░░░░░░░░░░░   55.33 % 
+Windows                  1 hr 18 mins        ███████████░░░░░░░░░░░░░░   44.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (32.6%)
+⏱ AI Coding Time: 57 mins (32.68%)
 
 ✍️ 0 lines written by AI, 295 lines written by hand (0.0% AI-written)
 
