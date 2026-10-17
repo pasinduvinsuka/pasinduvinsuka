@@ -26,7 +26,7 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C858%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C860%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2014%20mins-blue?style=flat)
 
@@ -47,35 +47,34 @@ Sunday                   15241 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-C                        2 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.49 % 
-C++                      1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-TypeScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-C#                       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+C                        2 hrs 11 mins       ██████████████░░░░░░░░░░░   54.13 % 
+C++                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+C#                       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 12 mins       █████████████████░░░░░░░░   67.25 % 
-Claude Code              48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Antigravity              45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Antigravity IDE          3 hrs 15 mins       ████████████████████░░░░░   80.15 % 
+Claude Code              48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 
 🐱‍💻 Projects: 
-fyp                      2 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.52 % 
-llama.cpp                1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
-Stassen_Tea_Solution_FE  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Stassen_Tea_Solution_BE  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Implementation           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+fyp                      2 hrs 12 mins       ██████████████░░░░░░░░░░░   54.37 % 
+llama.cpp                54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Stassen_Tea_Solution_FE  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Stassen_Tea_Solution_BE  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Implementation           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Linux                    3 hrs 52 mins       ████████████████████░░░░░   81.24 % 
-Windows                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Linux                    3 hrs 7 mins        ███████████████████░░░░░░   76.85 % 
+Windows                  56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (17.78%)
+⏱ AI Coding Time: 50 mins (20.9%)
 
-✍️ 0 lines written by AI, 397 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 295 lines written by hand (0.0% AI-written)
 
 🔤 293,312 Input Tokens, 37,717 Output Tokens
 
@@ -90,7 +89,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📚 Verbose Prompter — average 2,835 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 82.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 78.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
