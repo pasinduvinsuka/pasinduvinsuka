@@ -26,9 +26,9 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C860%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C860%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2021%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -47,49 +47,49 @@ Sunday                   15241 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-C                        2 hrs 11 mins       ██████████████░░░░░░░░░░░   54.13 % 
-C++                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-C#                       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+C                        2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.48 % 
+Python                   1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+C++                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+C#                       21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 15 mins       ████████████████████░░░░░   80.15 % 
-Claude Code              48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Antigravity IDE          3 hrs 7 mins        ███████████████░░░░░░░░░░   58.85 % 
+Claude Code              2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.15 % 
 
 🐱‍💻 Projects: 
-fyp                      2 hrs 12 mins       ██████████████░░░░░░░░░░░   54.37 % 
-llama.cpp                54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Stassen_Tea_Solution_FE  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Stassen_Tea_Solution_BE  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Implementation           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+fyp                      2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.67 % 
+Stassen_Tea_Solution_BE  1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+llama.cpp                46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Stassen_Tea_Solution_FE  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Implementation           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    3 hrs 7 mins        ███████████████████░░░░░░   76.85 % 
-Windows                  56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Linux                    2 hrs 59 mins       ██████████████░░░░░░░░░░░   56.32 % 
+Windows                  2 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (20.9%)
+⏱ AI Coding Time: 2 hrs 13 mins (41.96%)
 
-✍️ 0 lines written by AI, 295 lines written by hand (0.0% AI-written)
+✍️ 133 lines written by AI, 293 lines written by hand (31.22% AI-written)
 
-🔤 293,312 Input Tokens, 37,717 Output Tokens
+🔤 1,296,584 Input Tokens, 128,549 Output Tokens
 
-💵 $3.69 Estimated AI Cost This Week
+💵 $14.65 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 7 AI Sessions, 41 AI Prompts
 
-Opus                     97 lines            █████████████████████████   100.00 % 
+Opus                     231 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,835 characters per prompt
+🧑‍💻 Mostly Hands-On — 31.22% of written lines came from AI
+📄 Detailed Prompter — average 1,175 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 78.59% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 60.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
