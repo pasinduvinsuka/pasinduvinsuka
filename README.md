@@ -47,49 +47,48 @@ Sunday                   15241 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   31.64 % 
-C                        1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   30.69 % 
-TypeScript               46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-C#                       40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Python                   1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.02 % 
+C                        1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   39.79 % 
+C#                       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 30 mins       ████████████████░░░░░░░░░   63.82 % 
-Antigravity IDE          1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   36.18 % 
+Claude Code              1 hr 42 mins        ██████████████░░░░░░░░░░░   56.06 % 
+Antigravity IDE          1 hr 20 mins        ███████████░░░░░░░░░░░░░░   43.94 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_BE  1 hr 55 mins        ████████████░░░░░░░░░░░░░   48.96 % 
-fyp                      1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   30.49 % 
-Stassen_Tea_Solution_FE  46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-llama.cpp                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Implementation           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Stassen_Tea_Solution_BE  1 hr 40 mins        ██████████████░░░░░░░░░░░   55.03 % 
+fyp                      1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   39.53 % 
+Stassen_Tea_Solution_FE  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+llama.cpp                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Implementation           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████░░░░░░░░   68.70 % 
-Linux                    1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Windows                  1 hr 48 mins        ███████████████░░░░░░░░░░   59.42 % 
+Linux                    1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 33 mins (64.91%)
+⏱ AI Coding Time: 1 hr 42 mins (56.06%)
 
 ✍️ 147 lines written by AI, 132 lines written by hand (52.69% AI-written)
 
-🔤 1,427,856 Input Tokens, 140,858 Output Tokens
+🔤 1,134,544 Input Tokens, 103,141 Output Tokens
 
-💵 $15.82 Estimated AI Cost This Week
+💵 $12.13 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 47 AI Prompts
+🧠 8 AI Sessions, 33 AI Prompts
 
-Opus                     245 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     148 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 52.69% of written lines came from AI
-📄 Detailed Prompter — average 1,193 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 38.9% of changed lines were hand-edited
+📄 Detailed Prompter — average 580 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 51.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
