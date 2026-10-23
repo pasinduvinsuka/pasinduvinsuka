@@ -26,9 +26,9 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C860%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C860%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2045%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -47,48 +47,47 @@ Sunday                   15241 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.02 % 
-C                        1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   39.79 % 
-C#                       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+C#                       25 mins             ███████████████░░░░░░░░░░   58.92 % 
+TypeScript               16 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Claude Code              1 hr 42 mins        ██████████████░░░░░░░░░░░   56.06 % 
-Antigravity IDE          1 hr 20 mins        ███████████░░░░░░░░░░░░░░   43.94 % 
+Claude Code              31 mins             ██████████████████░░░░░░░   72.54 % 
+Antigravity IDE          11 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_BE  1 hr 40 mins        ██████████████░░░░░░░░░░░   55.03 % 
-fyp                      1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   39.53 % 
-Stassen_Tea_Solution_FE  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-llama.cpp                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Implementation           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Stassen_Tea_Solution_BE  25 mins             ███████████████░░░░░░░░░░   58.92 % 
+Stassen_Tea_Solution_FE  16 mins             ██████████░░░░░░░░░░░░░░░   38.71 % 
+fyp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+llama.cpp                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        ███████████████░░░░░░░░░░   59.42 % 
-Linux                    1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.58 % 
+Windows                  42 mins             ████████████████████████░   97.63 % 
+Linux                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (56.06%)
+⏱ AI Coding Time: 31 mins (72.54%)
 
-✍️ 147 lines written by AI, 132 lines written by hand (52.69% AI-written)
+✍️ 24 lines written by AI, 6 lines written by hand (80.0% AI-written)
 
-🔤 1,134,544 Input Tokens, 103,141 Output Tokens
+🔤 624,834 Input Tokens, 34,821 Output Tokens
 
-💵 $12.13 Estimated AI Cost This Week
+💵 $4.42 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 33 AI Prompts
+🧠 9 AI Sessions, 16 AI Prompts
 
-Opus                     148 lines           █████████████████████████   100.00 % 
+Opus                     31 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.69% of written lines came from AI
-📄 Detailed Prompter — average 580 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 51.32% of changed lines were hand-edited
+🤖 AI-Driven — 80.0% of written lines came from AI
+📄 Detailed Prompter — average 1,419 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 31.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
