@@ -26,9 +26,9 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C864%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C864%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2016%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -47,47 +47,49 @@ Sunday                   15241 commits       █████████░░�
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   37.91 % 
-Text                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-C++                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-SQL                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+C#                       1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   38.83 % 
+Text                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+TypeScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+SQL                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 22 mins       ███████████████░░░░░░░░░░   59.43 % 
-Antigravity IDE          1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   40.57 % 
+Claude Code              2 hrs 18 mins       ███████████████░░░░░░░░░░   59.15 % 
+Antigravity IDE          1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.94 % 
+Antigravity Desktop      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🐱‍💻 Projects: 
-Stassen_Tea_Solution_BE  2 hrs 12 mins       ██████████████░░░░░░░░░░░   55.04 % 
-Stassen_Tea_Solution_FE  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-fyp                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-llama.cpp                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Stassen_Tea_Solution_BE  2 hrs 12 mins       ██████████████░░░░░░░░░░░   56.39 % 
+Stassen_Tea_Solution_FE  43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+fyp                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+llama.cpp                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       ██████████████████░░░░░░░   71.21 % 
-Linux                    1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Windows                  2 hrs 55 mins       ███████████████████░░░░░░   74.98 % 
+Linux                    58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (60.41%)
+⏱ AI Coding Time: 2 hrs 30 mins (64.28%)
 
-✍️ 435 lines written by AI, 149 lines written by hand (74.49% AI-written)
+✍️ 431 lines written by AI, 159 lines written by hand (73.05% AI-written)
 
-🔤 1,458,499 Input Tokens, 137,747 Output Tokens
+🔤 1,412,575 Input Tokens, 132,056 Output Tokens
 
-💵 $14.14 Estimated AI Cost This Week
+💵 $13.46 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 39 AI Prompts
+🧠 11 AI Sessions, 39 AI Prompts
 
-Opus                     453 lines           █████████████████████████   100.00 % 
+Opus                     443 lines           █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.49% of written lines came from AI
-📚 Verbose Prompter — average 2,058 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.66% of changed lines were hand-edited
+🤖 AI-Driven — 73.05% of written lines came from AI
+📚 Verbose Prompter — average 1,706 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 30.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
